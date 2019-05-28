@@ -8,7 +8,7 @@ public class App {
         System.out.println("新增");
 
 
-        int a = 10;
+        //int a = 10;
     }
 
 }
